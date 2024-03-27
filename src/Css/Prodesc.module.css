@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+.perdescdiv{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    padding: 82px;
+    padding-left: 147px;
+    margin-top: 25px;
+}
+
+.perdescdivimg{
+    width: 220px;
+}
+
+.perdescdivtitle{
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    margin-top: 30px;
+}
+
+.perdescdivdesc{
+    margin-top: 18px;
+}
+
+.perdescdivprice{
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    margin-top: 18px;
+}
